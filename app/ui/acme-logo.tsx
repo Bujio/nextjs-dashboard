@@ -7,7 +7,7 @@ export default function AcmeLogo() {
       className={`${lusitana.className} flex flex-row items-center leading-none text-white`}
     >
       <CalculatorIcon className="h-30 w-30 rotate-[15deg]" />
-      <p className="text-[34px]">Casa Mantua</p>
+      <p className="text-[30px]">Casa Mantua</p>
     </div>
   );
 }
